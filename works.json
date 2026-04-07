@@ -1,0 +1,170 @@
+{
+  "_comment": "==============================================================",
+  "_howto": "TO ADD A NEW WORK: just add one line to the correct category array.",
+  "_format": "{ \"id\": \"GOOGLE_DRIVE_FILE_ID\", \"title\": \"Optional Title\", \"type\": \"image|video|model\" }",
+  "_note":   "type defaults to 'image' if omitted. For videos use 'video'. For 3D use 'model'.",
+  "==============================================================": "",
+
+  "categories": [
+    {
+      "id":    "3d",
+      "label": { "pl": "3D",        "en": "3D"        },
+      "icon":  "⬡",
+      "works": [
+        { "id": "1q464T4sbob9uAWefvJzhZrMru-srhnMZ" },
+        { "id": "1gfqp3-B-7PhoVtNLAT9loSR9GBfwC-WB" },
+        { "id": "1lYJ7Wp-AZjM2rHHIVG59w88tjUGeFgUn" },
+        { "id": "1ua7RgXnxVdF4NmDucKoeGfwJszeGbM9-" },
+        { "id": "1HXpOO68VIhBit7oiweV3XGx6Oj2WL02O" },
+        { "id": "1JzmcIwb6DJjEvwFhdSYwlil2PUBfbRFf" },
+        { "id": "1wve4DaE-YhSv14-SzxIR3FdOgFA1AuDF" },
+        { "id": "1QwZnTgdVGCIU-ZYsF-k7daCSsboaHjnh" },
+        { "id": "1u8nRz-ebnttP_M1B_E7HLwAkbH8CMj4O" },
+        { "id": "1Pc9um7JygcUSGXa61KlJbt61BVXEW88y" }
+      ]
+    },
+    {
+      "id":    "digital",
+      "label": { "pl": "Digital",   "en": "Digital"   },
+      "icon":  "◈",
+      "works": [
+        { "id": "1Oim3JB30MTGw29wJ7_MxBJhjI_m3swsY" },
+        { "id": "1RRlhHzSjX8JqKiGrrXVWmvbpVzcWXAyz" },
+        { "id": "15DjwvwJg8z3S0sgf-5tISYBulNWoZgnS" },
+        { "id": "1Z6XbrHrA6r77fHVdwJ1EtrA926pp0tag" },
+        { "id": "1EVutHkmYjhDaH8F-dG0L6jt71QpLfMPa" },
+        { "id": "1AB4H35bRZwQVfx-1PDf3u23IUDMrdjUk" },
+        { "id": "1IAiajobx8Ae4DVThKuuV63VEgLlN3317" },
+        { "id": "1eYYOWfznCFwT7gXGF5-Ja8daizQqFcfO" },
+        { "id": "1a2NIrA-7zBSZDh9WEJoCeOApqxjyTxdA" },
+        { "id": "1DztrFryI_J0LzwBevY41V9XAzv_hKggw" },
+        { "id": "1WscNxWkLN2GjUI5xG28e2vV9tByEqWU2" },
+        { "id": "1XBBXeuffJXPVdOwFLSffBBnWyWTvj1ZH" },
+        { "id": "16mv8lEmcuLMw_ihc1IGmrjXwkq9H6iz2" },
+        { "id": "12YXOY0XQhRjTaxgoMDODxA_AmW3Gjz-U" },
+        { "id": "1vZI1oLfPtx7TylDFhlZgEeDIWX_D2AGh" },
+        { "id": "1I5EKsCCJWmCrX93Mb6_BFKcFoc1McAHE" }
+      ]
+    },
+    {
+      "id":    "malarstwo",
+      "label": { "pl": "Malarstwo", "en": "Painting"  },
+      "icon":  "◉",
+      "works": [
+        { "id": "1aEZ2PR1W_zHpRT-hvHnod-QhcyFAJ3BJ" },
+        { "id": "1zx2fNXPonjYNQNeJ5CrWqtuQ0aEOD9m1" },
+        { "id": "1SmrWoW7Xewke01Jw_dK23NmGudDeKn9q" },
+        { "id": "14-uw17T5y0lvDF8gwb0zeS-yKAdFr0IH" },
+        { "id": "1Sn6eDUPm2aQVIYBhfB2Tp1o6lyFOmBRV" },
+        { "id": "12tzUYOF7zAmHx4FKAK9JJ7M7iLnfhgBe" },
+        { "id": "1shWAn_J2PpE_rGkeQNcoN6QoWjPx0iRb" },
+        { "id": "1vz5jm8szAmAa_djstdRaLYoaYpujBYsx" },
+        { "id": "1qd-YLbK8WVewnsnrcJH7vpDDKW4CEoZ_", "title": "Piony" }
+      ]
+    },
+    {
+      "id":    "rysunek",
+      "label": { "pl": "Rysunek",   "en": "Drawing"   },
+      "icon":  "✦",
+      "works": [
+        { "id": "1bQBThmmv8gQuy73_Z9nl99g0a2FIkmd-" },
+        { "id": "1o9mHXV385OC2IJ_t5LpUR14L5Wj5shkh" },
+        { "id": "1xhTSRs2feC5N4HCRD0E5ULiV0kqQpBLy" },
+        { "id": "1vD7MP4xyRYQFzlaWHh1ewAJ5CsZypu3V" },
+        { "id": "1IQ3GbkUHuYDFbD5w3LUJeSnUWcK-VTRD" },
+        { "id": "1Nsr_muMg6uNfCYSMmYKrvTkX5VIIJZYk" },
+        { "id": "1W_ILX_LXTUBbOOaWaXsqykFCCor7z7Ps" },
+        { "id": "1MhMm6yFjghu-i_QAe7u0YMSoIyoczRJI" },
+        { "id": "1TBSrrki5fJeSTFhBzoHxRLiK0UT_EcLS" },
+        { "id": "1WBvptOX8CxVIKit6LWjNPO2XUDVZ87wV" },
+        { "id": "1itEayMVipwSYXMKkTPjIkRdUvvQ5kLPa" },
+        { "id": "1EUO-yS86KlskMVnrsViXXSkTh41czvn7" },
+        { "id": "1j-ElTM-rLQVYDvQPSOE0Z9MmZCF3WYBj" },
+        { "id": "131ymu9jEMMOEPB_Fa741n1gNde5wucXr" },
+        { "id": "1RBDUk-npRshEeAprySTNEhFAO8_z1u0i" },
+        { "id": "1B5sthOYKCYKc5-pakyHG7zFGZi0uQ6oi" },
+        { "id": "1MqhADGhE2uJcRO6Ayc1zsxrgwHdByOQP" },
+        { "id": "1WWbUX5RyDlnLjH6O4RolU0UU-9aNmH9s" },
+        { "id": "16Lg1biB9hxnske8BzjBzJFSX04S8nkLb" },
+        { "id": "1JF7N_yqazfvDeZzRo__CrDI1NWccYEG-" },
+        { "id": "1vmNw_UHfx8UwCnEu0bt1EkdYqq5MfUdB" },
+        { "id": "17_z9jyF7xEbZHEZbDAzwKUTlCJv6n41q" },
+        { "id": "1XhTkgRrCs6pbmzzrR1CRhE8pHqMyfLn0" }
+      ]
+    },
+    {
+      "id":    "animacja",
+      "label": { "pl": "Animacja",  "en": "Animation" },
+      "icon":  "▷",
+      "works": [
+        { "id": "1AU22vQWhmPvYcJJZmtlYybrWzKE_mreA", "type": "video" },
+        { "id": "11RVgCsmlIzhi0ir-K9cHyuDIatCKA0v_", "type": "video" }
+      ]
+    },
+    {
+      "id":    "logo",
+      "label": { "pl": "Logo",      "en": "Logo"      },
+      "icon":  "◎",
+      "works": [
+        { "id": "1KewNW9YC1wtvgdGvKVCddL8b__aFJ7Ik" },
+        { "id": "1Wl7HhzWDojNr9OzwqgeR69y4xZ4m2l9I" },
+        { "id": "1WJaWpxXlOP1TRAFFFrY6F4V5aBuqIrtb" },
+        { "id": "1pLPLEqDaeVFu01Gleb25_l20VwdzDIyX" },
+        { "id": "1MOlmX1H0cJQHIpM4md1jFHkc7vhymB1p" },
+        { "id": "12yugSj6augy-sJJlG62ThaL7z4SvcI5T" },
+        { "id": "1-pAzVF6u4qN3LW4V3qN_Wl1-4IxXJ7Ed" },
+        { "id": "1yKIrEiXXeBvJArWPls1wH-Gp8p3SFtnE" }
+      ]
+    },
+    {
+      "id":    "plakat",
+      "label": { "pl": "Plakat",    "en": "Poster"    },
+      "icon":  "▣",
+      "works": [
+        { "id": "16HcLb173v1qCdsv8V-4nmOCQWFMfxoC3" },
+        { "id": "1OR8mLZthT84XLP4J6H9GLOQLl0ZQhfVx" },
+        { "id": "1I1agaygD0-i9Hir79kYGfjAKgDa5IJiC" },
+        { "id": "1F9V01qw1UvJX16jAgCeB8761L9ihaD9F" },
+        { "id": "1Nbxcr8c11q4pRGvcKG_2rDmw6u9FWjJt" },
+        { "id": "1OlAsv18s8Jws1Y3Sq2RTXm4-Js__p4PW" }
+      ]
+    },
+    {
+      "id":    "linoryt",
+      "label": { "pl": "Linoryt",   "en": "Linocut"   },
+      "icon":  "◻",
+      "works": [
+        { "id": "14396qgtwEGEKV0ZfsFISjKzhSexSnnf1" },
+        { "id": "16nTLuYqg8gl9nuxotj-yy0m9daWjFn4Y" },
+        { "id": "1qqWE6oWTLDdNfMczJyD8FY9-1KRHDU6J" }
+      ]
+    },
+    {
+      "id":    "rzezba",
+      "label": { "pl": "Rzeźba",    "en": "Sculpture" },
+      "icon":  "◆",
+      "works": [
+        { "id": "1pSaYQ3XHcMUObnDxizIP3osP1dMQc1JQ" },
+        { "id": "1Q9BvBZbej30wEnF0FHJ6NCC_sspS23dG" },
+        { "id": "1jVbD936ATEvH0TKKrP30gq7nNk6czYrM" },
+        { "id": "1d6XfxI3Qo-jIIZ3-QUXHgRAADMLjtaqb" },
+        { "id": "1k0CQM9J6B_BAVy2A4j5HzsV8bMrXHIy6" },
+        { "id": "1d337eYhaBAV8_X7XpSs-sjohFCuHWg74" },
+        { "id": "1Dx3ARUu0FagoVnOEUGQqGDo2esTnbciA" },
+        { "id": "1ZeLZssJpuPoohH0hHhovbk8IvUTBFT3N" },
+        { "id": "1H5fohkachLB475tUA-nfwEPPop426PV6" }
+      ]
+    },
+    {
+      "id":    "inne",
+      "label": { "pl": "Inne",      "en": "Other"     },
+      "icon":  "○",
+      "works": [
+        { "id": "1dvlufbQY1aC_4EuhKq_Okv5pNX2viEUz" },
+        { "id": "1KGKD2h0ZD_dBUwZav1P7HOoGgFQHBFE6" },
+        { "id": "1jOIAMLRxkjpEU8sIJ-dgVQWCQh3t_-ls" },
+        { "id": "1mvD_hSn1d3ixITMNt-2oO4QSSQSP3UjA" }
+      ]
+    }
+  ]
+}
